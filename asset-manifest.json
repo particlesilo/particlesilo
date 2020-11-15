@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/particlesilo/static/css/main.b5f4913a.chunk.css",
-    "main.js": "/particlesilo/static/js/main.b89cdcb8.chunk.js",
-    "main.js.map": "/particlesilo/static/js/main.b89cdcb8.chunk.js.map",
+    "main.css": "/particlesilo/static/css/main.2375c5cf.chunk.css",
+    "main.js": "/particlesilo/static/js/main.836f6fb7.chunk.js",
+    "main.js.map": "/particlesilo/static/js/main.836f6fb7.chunk.js.map",
     "runtime-main.js": "/particlesilo/static/js/runtime-main.97a38c41.js",
     "runtime-main.js.map": "/particlesilo/static/js/runtime-main.97a38c41.js.map",
     "static/js/2.5cb854a3.chunk.js": "/particlesilo/static/js/2.5cb854a3.chunk.js",
@@ -10,18 +10,19 @@
     "static/js/3.0a51f319.chunk.js": "/particlesilo/static/js/3.0a51f319.chunk.js",
     "static/js/3.0a51f319.chunk.js.map": "/particlesilo/static/js/3.0a51f319.chunk.js.map",
     "index.html": "/particlesilo/index.html",
-    "static/css/main.b5f4913a.chunk.css.map": "/particlesilo/static/css/main.b5f4913a.chunk.css.map",
+    "static/css/main.2375c5cf.chunk.css.map": "/particlesilo/static/css/main.2375c5cf.chunk.css.map",
     "static/js/2.5cb854a3.chunk.js.LICENSE.txt": "/particlesilo/static/js/2.5cb854a3.chunk.js.LICENSE.txt",
     "static/media/Audience General.0d075e74.png": "/particlesilo/static/media/Audience General.0d075e74.png",
     "static/media/Audiences Children.dc8e52d9.png": "/particlesilo/static/media/Audiences Children.dc8e52d9.png",
     "static/media/Audiences High School.617e46f4.png": "/particlesilo/static/media/Audiences High School.617e46f4.png",
     "static/media/Audiences University.17a29b43.png": "/particlesilo/static/media/Audiences University.17a29b43.png",
-    "static/media/Background.0f4d400b.png": "/particlesilo/static/media/Background.0f4d400b.png",
+    "static/media/Background.e986d937.png": "/particlesilo/static/media/Background.e986d937.png",
     "static/media/Background_old.9cd3362e.png": "/particlesilo/static/media/Background_old.9cd3362e.png",
     "static/media/DataVisChartsandPlots.06c769da.png": "/particlesilo/static/media/DataVisChartsandPlots.06c769da.png",
     "static/media/InteractiveActivitiesandWorkshops.6cc47f28.png": "/particlesilo/static/media/InteractiveActivitiesandWorkshops.6cc47f28.png",
     "static/media/PaperDigest.ccb218aa.png": "/particlesilo/static/media/PaperDigest.ccb218aa.png",
     "static/media/ShortVideosAnimations.4e37f01f.png": "/particlesilo/static/media/ShortVideosAnimations.4e37f01f.png",
+    "static/media/Splash.58bff328.png": "/particlesilo/static/media/Splash.58bff328.png",
     "static/media/TalksandPresentations.d3f99077.png": "/particlesilo/static/media/TalksandPresentations.d3f99077.png",
     "static/media/logowhite.27769fb7.svg": "/particlesilo/static/media/logowhite.27769fb7.svg",
     "static/media/royaltyfreeimage.69bdcbb2.png": "/particlesilo/static/media/royaltyfreeimage.69bdcbb2.png",
@@ -30,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.97a38c41.js",
     "static/js/2.5cb854a3.chunk.js",
-    "static/css/main.b5f4913a.chunk.css",
-    "static/js/main.b89cdcb8.chunk.js"
+    "static/css/main.2375c5cf.chunk.css",
+    "static/js/main.836f6fb7.chunk.js"
   ]
 }
