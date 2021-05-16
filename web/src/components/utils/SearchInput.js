@@ -7,7 +7,7 @@ export const SearchInput = ({ name, placeholder, value, onChange}) => {
     <div className="relative flex w-full flex-wrap items-stretch mb-3 p-8">
       <input
         type="text"
-        className="w-11/12 px-3 text-2xl py-3 placeholder-blueGray-300 text-gray-50 border-0 border-b-2 border-opacity-40 bg-white bg-opacity-0 focus:border-red-400 "
+        className="w-11/12 px-3 text-2xl py-3 placeholder-blueGray-300 text-gray-50 border-0 border-b-2 border-opacity-40 bg-white bg-opacity-0 focus:border-red-400 focus:outline-none "
         name={name}
         placeholder={placeholder}
         value={value}

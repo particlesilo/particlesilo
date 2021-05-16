@@ -6,4 +6,9 @@ export const styleClass = {
     active: "text-red-400", 
     item: "mr-8 text-lg"
   },
+  container: "w-3/5 mx-auto items-center justify-items-center", 
+  home : {
+      logo: "object-scale-down w-1/2 mx-auto",
+      headline: "text-gray-50 text-xl text-center"
+  }
 };

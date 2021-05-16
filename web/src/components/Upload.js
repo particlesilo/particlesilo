@@ -1,9 +1,9 @@
 import React from 'react'
+import { styleClass } from '../utils/style_class'
 
 export const Upload = () => {
     return( 
-        <div>
-            Upload files!
+        <div className={styleClass.container}>
         </div> 
     )
 }

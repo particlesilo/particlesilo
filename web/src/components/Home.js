@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import logo from "../assets/logos/logo-white.png";
+import { styleClass } from "../utils/style_class";
 import { SearchInput } from "./utils/SearchInput";
 
 export const Home = () => {
@@ -8,9 +9,9 @@ export const Home = () => {
     setSearchQuery(e.target.value);
   };
   return (
-    <div className="w-3/5 mx-auto items-center justify-items-center">
-      <img src={logo} className="object-scale-down w-1/2 mx-auto" />
-      <p className="text-gray-50 text-xl text-center">
+    <div className={styleClass.container}>
+      <img src={logo} className={styleClass.home.logo} alt="Particle Silo"/>
+      <p className={styleClass.home.headline}>
         The best Science Communication materials for your next outreach
         activities!
       </p>
