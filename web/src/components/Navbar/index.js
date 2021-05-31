@@ -10,7 +10,7 @@ export default function Navbar({ children }){
           <ul className="flex p-8">
             <Navlink route="/" name="Home" />
             <Navlink route="/about" name="About" />
-            <Navlink route="/upload" name="Upload" />
+            <Navlink route="/dashboard" name="Dashboard" />
             <Navlink route="/login" name="Login" />
           </ul>
         </div>
