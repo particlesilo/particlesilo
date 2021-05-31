@@ -1,5 +1,5 @@
 import React from 'react'
-import { styleClass } from '../utils/style_class'
+import { styleClass } from '../../utils/style_class'
 
 export const Dashboard = () => {
     return(
