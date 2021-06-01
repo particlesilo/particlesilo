@@ -22,7 +22,7 @@ export default function Dashboard({topics, profile, socialmedia, visuals}){
     //    <TopicsAggregator topics={{}} />
     // </div>
 
-    <div class="grid grid-cols-1 md:grid-cols-4">
+    <div className="grid grid-cols-1 md:grid-cols-4">
         <UserProfile topics={{}} />
         <TopicsAggregator topics={{}} />
         <SocialMedia topics={{}} />

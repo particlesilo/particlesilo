@@ -5,6 +5,7 @@ import { Home } from "../components/Home";
 import { Login } from "../components/Login";
 import Navbar from "../components/Navbar";
 import Dashboard from "../components/Dashboard";
+import { TopicPage } from "../components/Topics/TopicPage";
 // import { Upload } from "../components/Upload";
 
 
@@ -15,6 +16,7 @@ export default function routes() {
         <Route exact path="/about" component={About} />
         <Route exact path="/dashboard" component={Dashboard} />
         <Route exact path="/login" component={Login} />
+        <Route exact path="/topic/:id" children={<TopicPage />} />
         <Route exact={true} path="/" component={Home} />
       </Switch>
     </Navbar>
