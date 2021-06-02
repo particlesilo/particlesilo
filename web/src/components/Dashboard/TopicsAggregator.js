@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import { styleClass } from '../../utils/style_class';
 import { Link } from "react-router-dom";
-import TopicsForm from './TopicsForm';
+import TopicsForm from './Topics/TopicsForm';
 
 export const TopicsAggregator = ({topics}) => {
   const topicsL = ['Rolling in the Higgs', 'What is a Discovery?', 'Dark Matter']
