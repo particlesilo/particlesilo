@@ -33,9 +33,9 @@ function TopicsForm(props){
             onChange={handleChange}
             name='text'
             ref={inputRef}
-            className='todo-input edit'
+            className='topic-input edit'
           />
-          <button onClick={handleSubmit} className='todo-button edit'>
+          <button onClick={handleSubmit} className='topic-button edit'>
             Update
           </button>
         </>
@@ -50,7 +50,7 @@ function TopicsForm(props){
             ref={inputRef}
           />
           <button onClick={handleSubmit} className='topics-button'>
-            Add todo
+            Add a topic
           </button>
         </>
       )}
@@ -58,3 +58,5 @@ function TopicsForm(props){
   );
 
 }
+
+export default TopicsForm;
