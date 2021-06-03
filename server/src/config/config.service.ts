@@ -3,7 +3,7 @@ import { User } from 'src/users/user.entity';
 
 require('dotenv').config();
 
-class ConfigService {
+export class ConfigService {
 
   constructor(private env: { [k: string]: string | undefined }) { }
 
@@ -51,6 +51,7 @@ class ConfigService {
       },
 
       ssl: this.isProduction(),
+      autoLoadEntities: true,
     };
   }
 
