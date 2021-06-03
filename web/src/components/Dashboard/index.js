@@ -15,7 +15,7 @@ import { Visuals } from "./Visuals"
 // }
 
 // This is the main dashboard page
-export default function Dashboard({topics, profile, socialmedia, visuals}){
+export default function Dashboard({topicsAgg, profile, socialmedia, visuals}){
   return (
     // <div style={{height:"300px"}}>
     //    <UserProfile topics={{}} />
@@ -23,10 +23,10 @@ export default function Dashboard({topics, profile, socialmedia, visuals}){
     // </div>
 
     <div className="grid grid-cols-1 md:grid-cols-4">
-        <UserProfile topics={{}} />
-        <TopicsAggregator topics={{}} />
-        <SocialMedia topics={{}} />
-        <Visuals topics={{}} />
+        <UserProfile profile={{}} />
+        <TopicsAggregator topicsAgg={{}} />
+        <SocialMedia socialmedia={{}} />
+        <Visuals visuals={{}} />
     </div>
   )
 };
