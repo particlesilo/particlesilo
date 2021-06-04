@@ -3,7 +3,7 @@ import React from 'react'
 export const TopicCard = ({topic}) => { 
     return ( 
         <div className="m-4">
-            <img src={topic.imgUrl}/>
+            <img src={topic.imgUrl} className="h-48 w-full object-cover"/>
             <div className="flex flex-row justify-between mt-2"> 
                 <div className="border-r-2 w-9/12 border-purpleStroke"> 
                     <div className="text-sm text-white">{topic.author}</div>
