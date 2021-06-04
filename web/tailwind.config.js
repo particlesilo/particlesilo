@@ -8,6 +8,9 @@ module.exports = {
           dark: '#20385D', 
           light: '#291F3D'
         }, 
+        darkPurple: '#1F2340', 
+        purpleStroke: '#0F1223',
+        grayText: '818181'
       },
       textColor: {
         link: {

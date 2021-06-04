@@ -5,8 +5,25 @@ import { TopicsAggregator } from "./TopicsAggregator"
 import { UserProfile } from "./UserProfile"
 import { SocialMedia } from "./SocialMedia"
 import { Visuals } from "./Visuals"
+import { Contributions } from './Contributions'
 
 
+const contributions = [ 
+    { 
+        imgUrl:"https://www.extremetech.com/wp-content/uploads/2013/12/Electrons-640x353.jpg",
+        author: "Riya Patel", 
+        title: "Particle Physics",
+        date: "3 May 2021",
+        length: "2"
+    }, 
+    { 
+        imgUrl:"https://www.extremetech.com/wp-content/uploads/2013/12/Electrons-640x353.jpg",
+        author: "Riya Patel", 
+        title: "Particle Physics",
+        date: "3 May 2021",
+        length: "2"
+    }
+]
 // export const Dashboard = () => {
 //     return(
 //         <div className={styleClass.container}>
@@ -22,11 +39,16 @@ export default function Dashboard({topicsAgg, profile, socialmedia, visuals}){
     //    <TopicsAggregator topics={{}} />
     // </div>
 
-    <div className="grid grid-cols-1 md:grid-cols-4">
+    <div className="w-10/12 mx-auto flex flex-row">
+      <div className="w-3/12"> 
         <UserProfile profile={{}} />
         <TopicsAggregator topicsAgg={{}} />
         <SocialMedia socialmedia={{}} />
-        <Visuals visuals={{}} />
+      </div> 
+      <div className="w-9/12 m-8">
+        <Contributions contributions={contributions} />
+      </div>
+        {/* <Visuals visuals={{}} /> */}
     </div>
   )
 };
