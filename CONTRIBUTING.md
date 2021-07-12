@@ -9,4 +9,4 @@ We have [several issues](https://github.com/particlesilo/particle-silo/issues) i
 * [Sliding Visuals Deck](https://github.com/particlesilo/particle-silo/issues/8)
 * [Topics Aggregator](https://github.com/particlesilo/particle-silo/issues/4)
 
-Feel free to [contact us](uzzie.perez@cern.ch) to understand more about the issues. 
+Feel free to contact us (uzzie.perez@cern.ch) to understand more about the issues. 
