@@ -5,7 +5,7 @@ SERVER="particlesilo_server";
 PW="particlesilo";
 DB="ps";
 
-echo "echo stop & remove old docker [$SERVER] and starting new fresh instance of [$SERVER]"
+echo "stop & remove old docker [$SERVER] and starting new fresh instance of [$SERVER]"
 (docker kill $SERVER || :) && \
   (docker rm $SERVER || :) && \
   docker run --name $SERVER -e POSTGRES_PASSWORD=$PW \
