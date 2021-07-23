@@ -2,7 +2,7 @@
 
 Check out our Figma Prototype [here](https://www.figma.com/proto/nGJUMtXkLBWiAXys72VtcT/Particle-Silo-Website-features?node-id=135%3A724&scaling=min-zoom&page-id=135%3A167&starting-point-node-id=135%3A681)!
 
-<!--- [Prototype](https://user-images.githubusercontent.com/12828995/126817130-cc0556f8-10e8-4db7-917c-c0eee3d8f30f.png) --->!
+<!--- [Prototype](https://user-images.githubusercontent.com/12828995/126817130-cc0556f8-10e8-4db7-917c-c0eee3d8f30f.png) --->
 <img src="https://user-images.githubusercontent.com/12828995/126817130-cc0556f8-10e8-4db7-917c-c0eee3d8f30f.png" width="700" height="500" />
 
 # Contributing to Particle Silo
