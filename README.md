@@ -4,6 +4,8 @@ Check out our Figma Prototype [here](https://www.figma.com/proto/nGJUMtXkLBWiAXy
 
 ![Prototype](https://user-images.githubusercontent.com/12828995/126817130-cc0556f8-10e8-4db7-917c-c0eee3d8f30f.png)
 
+<img src="https://user-images.githubusercontent.com/12828995/126817130-cc0556f8-10e8-4db7-917c-c0eee3d8f30f.png" width="200" height="400" />
+
 # Contributing to Particle Silo
 
 [How Can I Contribute?](#how-can-i-contribute)
