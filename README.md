@@ -3,11 +3,11 @@
 Well-made science communication content are scattered through the web. If one
 wants to prepare for a presentation, either for outreach and even for writing
 a scientific article for whatever level, it takes time to go through the
-internet to look for the best sources for us to find /"the right words", "the
-right images'' /or the right video to explain a concept with a sense of
+internet to look for the best sources for us to find "*the right words", "the
+right images*" or the right video to explain a concept with a sense of
 satisfaction and clarity in the end. The *"Particle Silo"* project aims to
-facilitate this process by providing an *agile*, *personalizable*, and
-*shareable* content aggregator that is intuitive to use for science
+facilitate this process by providing an **agile**, **personalizable**, and
+**shareable** content aggregator that is intuitive to use for science
 communicators and learners across different levels.
 
 Check out our Figma Prototype [here](https://www.figma.com/proto/nGJUMtXkLBWiAXys72VtcT/Particle-Silo-Website-features?node-id=135%3A724&scaling=min-zoom&page-id=135%3A167&starting-point-node-id=135%3A681)!
