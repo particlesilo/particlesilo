@@ -12,8 +12,10 @@ export const Home = () => {
     <div className={styleClass.container}>
       <img src={logo} className={styleClass.home.logo} alt="Particle Silo"/>
       <p className={styleClass.home.headline}>
-        The best Science Communication materials for your next outreach
-        activities!
+        Content Aggregator. Personalizable. Shareable.
+      </p>
+      <p className={styleClass.home.headline}>
+        Creativity On Demand! 
       </p>
       <SearchInput
         name="search"
