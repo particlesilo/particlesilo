@@ -13,7 +13,7 @@ export const SearchInput = ({ name, placeholder, value, onChange}) => {
         value={value}
         onChange={onChange}
       />
-      <FontAwesomeIcon icon={faSearch} className="text-gray-500 text-xl z-10 h-full leading-snug text-center text-base items-center justify-center py-3 w-8"/>
+      <FontAwesomeIcon icon={faSearch} className="text-gray-500 z-10 h-full leading-snug text-center text-base items-center justify-center py-3 w-8"/>
     </div>
   );
 };

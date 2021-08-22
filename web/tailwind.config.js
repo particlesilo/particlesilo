@@ -10,7 +10,9 @@ module.exports = {
         }, 
         darkPurple: '#1F2340', 
         purpleStroke: '#0F1223',
-        grayText: '818181'
+        grayText: '#818181',
+        blueStroke: '#007BFC', 
+        darkBlue: '#005584'
       },
       textColor: {
         link: {
