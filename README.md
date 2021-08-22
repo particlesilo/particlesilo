@@ -44,6 +44,9 @@ Other ways to contribute:
 To get started and have a local version of the website on your PC, please install Node.js and npm. 
 Once you have npm installed, install yarn. You can use the yarn scripts available in this [README](https://github.com/particlesilo/particlesilo/blob/main/web/README.md). For example, do 
 
+### `brew install yarn`
+for MAC
+### `yarn install`
 ### `yarn build`
 to build the app for deployment
 ### `yarn start`
